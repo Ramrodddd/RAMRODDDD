@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Mario 👋
 
-<!--
-**Ramrodddd/RAMRODDDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Father first. Builder second.
 
-Here are some ideas to get you started:
+I work on Discord bots, automation, and practical developer tools.  
+Currently focused on creating useful projects and open to freelance / contract opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus areas
+- Discord bots & automation
+- Practical scripts and tools
+- Open to paid projects and collaborations
+
+### Contact
+- GitHub: [@Ramrodddd](https://github.com/Ramrodddd)
+
+---
+
+📌 *Building in public • Open to interesting work*
